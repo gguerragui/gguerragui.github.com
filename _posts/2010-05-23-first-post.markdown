@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogando Implementações
+title: Bem vindos Blogando Implementações
 ---
 
 Aqui falaremos das implementações dos projetos.

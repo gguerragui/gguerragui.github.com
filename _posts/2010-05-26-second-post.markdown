@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogando Implementações
+title: Projeto VaiTerJogo
 ---
 
 Nosso primeiro projeto vai ser o VaiTerJogo.
