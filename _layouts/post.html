@@ -28,7 +28,7 @@
       <div id="page_body">
         <div id="content">
           {{ content }}
-                    
+
           <script type="text/javascript">var disqus_url = "http://.github.com/gguerragui.github.com/{{ post.url }}"; var disqus_title ="{{ post.title }}";</script>
           <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/gguerragui.github.com/embed.js"></script>
           <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
@@ -46,7 +46,7 @@
           	})();
           //]]>
           </script>
-          
+
         </div>
         <div id="sidebar">
           <div class="item">
@@ -67,7 +67,7 @@
             <a href="../../../atom.xml" id="rss_feed" name="rss_feed">Blog Posts</a>
             <h4>Blog Posts</h4>
             <p>
-              {% for post in site.posts %} 
+              {% for post in site.posts %}
                 <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}">{{ post.title }}</a><br>
               {% endfor %}
             </p>
@@ -84,3 +84,4 @@
     <a href="http://github.com//gguerragui.github.com"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
   </body>
 </html>
+

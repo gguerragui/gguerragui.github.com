@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcome to 'Meu blog do GitHub'
+title: Bem vindos ao 'Blog dos projetos do GitHub'
 ---
 
-Meu blog do GitHub is going to be an awesome project.
+Aqui falaremos das implementações dos projetos.
+
