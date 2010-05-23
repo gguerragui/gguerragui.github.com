@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bem vindos ao 'Blog dos projetos do GitHub'
+title: Blogando Implementações
 ---
 
 Aqui falaremos das implementações dos projetos.
